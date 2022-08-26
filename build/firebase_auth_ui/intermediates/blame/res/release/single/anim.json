@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\83ae7b91d101470274959f9d0df2be6c\\material-1.0.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\c6d0dca41742e26824abb0ea8c248b0b\\appcompat-1.0.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\tw__accelerate_cubic.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\7a4e2f0b61ef5e0e82dbdc4f83dba822\\jetified-tweet-ui-3.3.0\\res\\anim\\tw__accelerate_cubic.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\c6d0dca41742e26824abb0ea8c248b0b\\appcompat-1.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\c6d0dca41742e26824abb0ea8c248b0b\\appcompat-1.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\fui_slide_in_right.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\4bab21aed3a13f23c49eeb39931f8467\\jetified-firebase-ui-auth-4.3.1\\res\\anim\\fui_slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\83ae7b91d101470274959f9d0df2be6c\\material-1.0.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\c6d0dca41742e26824abb0ea8c248b0b\\appcompat-1.0.0\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\c6d0dca41742e26824abb0ea8c248b0b\\appcompat-1.0.0\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\83ae7b91d101470274959f9d0df2be6c\\material-1.0.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\c6d0dca41742e26824abb0ea8c248b0b\\appcompat-1.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\83ae7b91d101470274959f9d0df2be6c\\material-1.0.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\c6d0dca41742e26824abb0ea8c248b0b\\appcompat-1.0.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\c6d0dca41742e26824abb0ea8c248b0b\\appcompat-1.0.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\c6d0dca41742e26824abb0ea8c248b0b\\appcompat-1.0.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\tw__slide_out.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\7a4e2f0b61ef5e0e82dbdc4f83dba822\\jetified-tweet-ui-3.3.0\\res\\anim\\tw__slide_out.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\c6d0dca41742e26824abb0ea8c248b0b\\appcompat-1.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\fui_slide_out_left.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\4bab21aed3a13f23c49eeb39931f8467\\jetified-firebase-ui-auth-4.3.1\\res\\anim\\fui_slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\c6d0dca41742e26824abb0ea8c248b0b\\appcompat-1.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\c6d0dca41742e26824abb0ea8c248b0b\\appcompat-1.0.0\\res\\anim\\abc_fade_in.xml"
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\8f40833f7635532076a7a6b96d192b05\\jetified-twitter-core-3.3.0\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Upwork\\Flutter Project File\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Usman_Khan\\.gradle\\caches\\transforms-2\\files-2.1\\8f40833f7635532076a7a6b96d192b05\\jetified-twitter-core-3.3.0\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}
